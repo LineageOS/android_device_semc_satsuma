@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//+lI\u003d",
+        "filename": "satsuma.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 605
+      },
+      "writtenOn": "2013-03-08T12:03:42Z",
+      "side": 0,
+      "message": "dont move it !\nyou have 1 cdma phone",
+      "revId": "13627c68684a00c2b14203e8b9e3bc67a2f00ee3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
